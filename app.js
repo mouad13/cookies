@@ -29,4 +29,4 @@ function affichermessage(){
 	}
 }
 
-var array = ["allez real",  "puta barca"]
+var array = ["allez real",  "allez l'om"]
